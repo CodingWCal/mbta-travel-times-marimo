@@ -52,6 +52,13 @@ Some parts may need cleanup, better data organization, clearer visualizations, a
 ## How To Run
 
 Install the required Python packages:
-
-```bash
 pip install marimo pandas numpy matplotlib
+
+Run the notebook with Marimo:
+pip install marimo pandas numpy matplotlib
+
+## Notes
+This project uses public MBTA open data. Any event related photos, private materials, QR codes, restricted branding, or NDA related information are intentionally not included in this repository.
+
+## Author
+Built by Calvin Van and Ludjy Derisier as a quick hackathon prototype exploring MBTA open data and interactive notebook workflows.
